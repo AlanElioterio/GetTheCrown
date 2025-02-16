@@ -30,8 +30,7 @@ Use um compilador C++ como g++:
 
 ## Estrutura do Projeto
 ```
-|-- src/
-|   |-- main.cpp
+|-- main.cpp
 |-- README.md
 ```
 
